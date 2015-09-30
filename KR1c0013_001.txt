@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩補傳
-#+DATE: 2015-09-23 09:36:34
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:04:36.865650
+#+PROPERTY: ID KR1c0013
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1c0013_WYG_001-1a>¶
 欽定四庫全書¶
 　詩補傳卷一　　　　　宋　范處義　撰¶
@@ -560,4 +562,3 @@
 　不罹羅網王者至仁則出定字或作顁爾雅云題也¶
 　是詩三章皆比也¶
 　詩補傳卷一¶
-

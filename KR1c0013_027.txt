@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩補傳
-#+DATE: 2015-09-23 09:36:34
-#+PROPERTY: JUAN 27
+#+DATE: 2015-08-24 22:04:37.407217
+#+PROPERTY: ID KR1c0013
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十七
 <pb:KR1c0013_WYG_027-1a>¶
 欽定四庫全書¶
 　詩補傳卷二十七　　　宋　范處義　撰¶
@@ -416,4 +418,3 @@
 　¶
 　¶
 　詩補傳卷二十七¶
-
